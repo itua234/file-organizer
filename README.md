@@ -27,3 +27,22 @@ Run the executable from your terminal with the required flags.
 
 ```bash
 ./organizer -path <directory> -mode <organize-mode> -dry-run
+
+
+### Flags
+
+-   `-path` (string): The path to the directory you want to organize. Defaults to `./files`.
+-   `-mode` (string): The organization method. Can be `extension` or `date`. Defaults to `extension`.
+-   `-dry-run` (boolean): If present, the program will only print the actions it would take without moving any files.
+
+### Examples
+
+**Organize files by extension in the default `./files` directory:**
+```bash
+./organizer.exe
+
+Contributing
+We welcome contributions! Please feel free to fork the repository, make changes, and submit a pull request.
+
+License
+This project is licensed under the MIT License.
