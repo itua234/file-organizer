@@ -12,8 +12,8 @@ A simple command-line utility written in Go to organize files in a directory by 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/itua234/file-organizer.git
+    cd file-organizer
     ```
 2.  **Build the executable:**
     ```bash
