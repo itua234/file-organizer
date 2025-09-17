@@ -40,13 +40,3 @@ Run the executable from your terminal with the required flags.
 **Organize files by extension in the default `./files` directory:**
 ```bash
 ./organizer.exe
-
-3.  **Contributing**
-    ```bash
-    We welcome contributions! Please feel free to fork the repository, make changes, and submit a pull request.
-    ```
-
-4.  **License**
-    ```bash
-    This project is licensed under the MIT License.
-    ```
