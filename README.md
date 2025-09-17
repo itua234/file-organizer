@@ -41,8 +41,12 @@ Run the executable from your terminal with the required flags.
 ```bash
 ./organizer.exe
 
-Contributing
-We welcome contributions! Please feel free to fork the repository, make changes, and submit a pull request.
+3.  **Contributing**
+    ```bash
+    We welcome contributions! Please feel free to fork the repository, make changes, and submit a pull request.
+    ```
 
-License
-This project is licensed under the MIT License.
+4.  **License**
+    ```bash
+    This project is licensed under the MIT License.
+    ```
